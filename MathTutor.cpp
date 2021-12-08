@@ -1,4 +1,6 @@
 /*
+Author: Michael Mishkanian
+
 Description: A program that can be used as a math tutor for a young student. 
 The program displays two random numbers to be added and will then 
 pause while the student works on the problem. When the student is ready to check 
